@@ -5,4 +5,6 @@
     <string name="hacker_keyboard">Hacker Keyboard</string>
     <string name="hacker_keyboard_compact">Hacker Keyboard Compact</string>
     <string name="hacker_keyboard_full">Hacker Keyboard Full</string>
+    <string name="hacker_keyboard_dvorak">Hacker Keyboard (Dvorak)</string>
+    <string name="hacker_keyboard_dvorak_full">Hacker Keyboard Full (Dvorak)</string>
 </resources>

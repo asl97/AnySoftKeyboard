@@ -3,4 +3,6 @@
     <string name="hacker_keyboard_description">A layout base on Hacker keyboard</string>
     <string name="hacker_keyboard_compact_description">A layout base on the Compact Hacker keyboard</string>
     <string name="hacker_keyboard_full_description">A layout base on the Full-Sized Hacker keyboard</string>
+    <string name="hacker_keyboard_dvorak_description">A layout base on the Dvorak Hacker keyboard</string>
+    <string name="hacker_keyboard_dvorak_full_description">A layout base on the Full-Sized Dvorak Hacker keyboard</string>
 </resources>

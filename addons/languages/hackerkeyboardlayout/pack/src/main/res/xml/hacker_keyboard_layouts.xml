@@ -31,4 +31,20 @@
         index="3"
         layoutResId="@xml/hacker_full"
         nameResId="@string/hacker_keyboard_full" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/hacker_keyboard_dvorak_description"
+        iconResId="@drawable/ic_status_hackerkeyboard"
+        id="b2e859fd-d06a-45d6-a717-f905c1d85ba8"
+        index="3"
+        layoutResId="@xml/hacker_dvorak"
+        nameResId="@string/hacker_keyboard_dvorak" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/hacker_keyboard_dvorak_full_description"
+        iconResId="@drawable/ic_status_hackerkeyboard"
+        id="5b33153e-2a7f-406e-ab0a-850935803916"
+        index="3"
+        layoutResId="@xml/hacker_dvorak_full"
+        nameResId="@string/hacker_keyboard_dvorak_full" />
 </Keyboards>
